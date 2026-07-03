@@ -19,6 +19,9 @@ Installation
 Download and extract the ZIP file.
 
 open chrome://extension; for edge: edge://extensions/
+
 Enable developer mode.
+
 Load the extracted extension (Button on top)
+
 Select the extracted folder FeedGuard_for_TikTok_v1_0
