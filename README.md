@@ -15,13 +15,9 @@ FeedGuard runs locally in your browser and stores settings using chrome.storage.
 FeedGuard is not affiliated with, endorsed by, or sponsored by TikTok.
 
 
-Installation
-Download and extract the ZIP file.
-
-open chrome://extension; for edge: edge://extensions/
-
-Enable developer mode.
-
-Load the extracted extension (Button on top)
-
-Select the extracted folder FeedGuard_for_TikTok_v1_0
+Installation:
+- Download and extract the ZIP file.
+- open chrome://extension; for edge: edge://extensions/
+- Enable developer mode.
+- Load the extracted extension (Button on top)
+- Select the extracted folder FeedGuard_for_TikTok_v1_0
